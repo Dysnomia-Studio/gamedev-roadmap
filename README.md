@@ -23,3 +23,17 @@ TODO: table of content
 | <span id="21">#21</span>   | Create game i18n public repostiory              | localization | - | ✅ | ✅ | ✅ | - |
 | <span id="22">#22</span>   | Setup Contributor License Agreements            | localization, legal | - | ✅ | ✅ | ❌ | [#21](#user-content-21) |
 | <span id="23">#23</span>   | Add i18n repo as a game repo submodule          | game-client, localization | - | ✅ | ❌ | ✅ |  [#1](#user-content-1), [#21](#user-content-21) |
+
+# Steam page
+
+# Steam integration
+
+| Id                         | Task                                            | Tags | Links | Extortion | Alchemistry | Manufactur'inc | Needs |
+| -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
+| <span id="201">#201</span> | Integrate steam dll/so files                    | game-client, technical, steam | - | ✅ | ✅ | ✅ | - |
+| <span id="202">#202</span> | Unlock at least 1 achievement                   | game-client, technical, steam | - | ✅ | ✅ | ✅ | [#201](#user-content-201) |
+| <span id="203">#203</span> | Save data to steam cloud                        | game-client, technical, steam | - | ✅ | ✅ | ❌ | [#201](#user-content-201) |
+| <span id="204">#204</span> | Setup steam leaderboards                        | game-client, technical, steam | - | ❌ | ✅ | ❌ | [#201](#user-content-201) |
+| <span id="205">#205</span> | Setup steam authentication                      | game-client, technical, steam | - | - | - | ✅ | [#201](#user-content-201) |
+| <span id="206">#206</span> | Ensure steam overlay works                      | game-client, technical, steam | - | ✅ | ✅ | ❌ | [#201](#user-content-201) |
+| <span id="207">#207</span> | Get language from Steam                         | game-client, technical, steam | - | ✅ | ✅ | ❌ | [#201](#user-content-201) |
