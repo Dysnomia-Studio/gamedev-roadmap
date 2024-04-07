@@ -7,8 +7,10 @@ This roadmap applies to all of my three Steam games:
 
 But this can be forked and used for your own games as well!
 
-
-TODO: table of content
+# Table of content
+1. [Repositories setup](#repositories-setup)
+2. [Steam page](#steam-page)
+3. [Steam integration](#steam-integration)
 
 # Repositories setup
 
@@ -31,7 +33,11 @@ TODO: table of content
 | <span id="22">#22</span>   | Setup Contributor License Agreements            | localization, legal | - | ✅ | ✅ | ❌ | [#21](#user-content-21) |
 | <span id="23">#23</span>   | Add i18n repo as a game repo submodule          | game-client, localization | - | ✅ | ❌ | ✅ |  [#1](#user-content-1), [#21](#user-content-21) |
 
+[Back to the top](#table-of-content)
+
 # Steam page
+
+[Back to the top](#table-of-content)
 
 # Steam integration
 
@@ -44,3 +50,5 @@ TODO: table of content
 | <span id="205">#205</span> | Setup steam authentication                      | game-client, technical, steam | - | - | - | ✅ | [#201](#user-content-201) |
 | <span id="206">#206</span> | Ensure steam overlay works                      | game-client, technical, steam | - | ✅ | ✅ | ❌ | [#201](#user-content-201) |
 | <span id="207">#207</span> | Get language from Steam                         | game-client, technical, steam | - | ✅ | ✅ | ❌ | [#201](#user-content-201) |
+
+[Back to the top](#table-of-content)
