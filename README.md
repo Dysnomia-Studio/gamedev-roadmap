@@ -47,14 +47,14 @@ But this can be forked and used for your games as well!
 
 | Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
 | -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
-| <span id="201">#201</span> | Integrate steam dll/so files                    | game-client, technical, steam | - | - | ✅ | ✅ | ✅ |
-| <span id="202">#202</span> | Unlock at least 1 achievement                   | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ✅ |
-| <span id="203">#203</span> | Save data to steam cloud                        | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ❌ |
-| <span id="204">#204</span> | Setup steam leaderboards                        | game-client, technical, steam | - | [#201](#user-content-201) | ❌ | ✅ | ❌ |
-| <span id="205">#205</span> | Setup steam authentication                      | game-client, technical, steam | - | [#201](#user-content-201) | - | - | ✅ |
-| <span id="206">#206</span> | Ensure steam overlay works                      | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ❌ |
-| <span id="207">#207</span> | Get language from Steam                         | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ❌ |
-| <span id="208">#208</span> | Setup steam enhanced rich presence              | game-client, technical, steam | [Steam official documentation](https://partner.steamgames.com/doc/features/enhancedrichpresence) | [#201](#user-content-201) | ❌ | ✅ | ❌ |
+| <span id="301">#301</span> | Integrate steam dll/so files                    | game-client, technical, steam | - | - | ✅ | ✅ | ✅ |
+| <span id="302">#302</span> | Unlock at least 1 achievement                   | game-client, technical, steam | - | [#301](#user-content-301) | ✅ | ✅ | ✅ |
+| <span id="303">#303</span> | Save data to steam cloud                        | game-client, technical, steam | - | [#301](#user-content-301) | ✅ | ✅ | ❌ |
+| <span id="304">#304</span> | Setup steam leaderboards                        | game-client, technical, steam | - | [#301](#user-content-301) | ❌ | ✅ | ❌ |
+| <span id="305">#305</span> | Setup steam authentication                      | game-client, technical, steam | - | [#301](#user-content-301) | - | - | ✅ |
+| <span id="306">#306</span> | Ensure steam overlay works                      | game-client, technical, steam | - | [#301](#user-content-301) | ✅ | ✅ | ❌ |
+| <span id="307">#307</span> | Get language from Steam                         | game-client, technical, steam | - | [#301](#user-content-301) | ✅ | ✅ | ❌ |
+| <span id="308">#308</span> | Setup steam enhanced rich presence              | game-client, technical, steam | [Steam official documentation](https://partner.steamgames.com/doc/features/enhancedrichpresence) | [#301](#user-content-301) | ❌ | ✅ | ❌ |
 
 [Back to the top](#table-of-content)
 
@@ -62,10 +62,10 @@ But this can be forked and used for your games as well!
 
 | Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
 | -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
-| <span id="301">#301</span> | Create game page on IGDB                        | community, visibility | [Dysnomia's Blog](https://blog.dysnomia.studio/posts/add-your-game-to-twitch/) | - | ✅ | ✅ | ✅ |
-| <span id="302">#302</span> | Claim game page on Twitch                       | community, visibility | [Dysnomia's Blog](https://blog.dysnomia.studio/posts/add-your-game-to-twitch/) | [#301](#user-content-301) | ✅ | ✅ | ✅ |
-| <span id="303">#303</span> | Create youtube category                         | community, visibility | - | ? | ✅ | ✅ | ✅ |
-| <span id="304">#304</span> | Create IndieDB page                             | community, visibility | - | - | ❌ | ❌ | ❌ |
-| <span id="305">#305</span> | Dump tokens to SteamDB to ensure full data there | community, visibility | [SteamDB Official page about token dumper](https://steamdb.info/tokendumper/) | - | ✅ | ✅ | ✅ |
+| <span id="401">#401</span> | Create game page on IGDB                        | community, visibility | [Dysnomia's Blog](https://blog.dysnomia.studio/posts/add-your-game-to-twitch/) | - | ✅ | ✅ | ✅ |
+| <span id="402">#402</span> | Claim game page on Twitch                       | community, visibility | [Dysnomia's Blog](https://blog.dysnomia.studio/posts/add-your-game-to-twitch/) | [#401](#user-content-401) | ✅ | ✅ | ✅ |
+| <span id="403">#403</span> | Create youtube category                         | community, visibility | - | ? | ✅ | ✅ | ✅ |
+| <span id="404">#404</span> | Create IndieDB page                             | community, visibility | - | - | ❌ | ❌ | ❌ |
+| <span id="405">#405</span> | Dump tokens to SteamDB to ensure full data there | community, visibility | [SteamDB Official page about token dumper](https://steamdb.info/tokendumper/) | - | ✅ | ✅ | ✅ |
 
 [Back to the top](#table-of-content)
