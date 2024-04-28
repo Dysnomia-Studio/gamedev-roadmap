@@ -49,13 +49,13 @@ But this can be forked and used for your games as well!
 
 | Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
 | -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
-| <span id="201">#201</span> | Setup a translation system                      | game-client,localization,technical | - | - | ✅ | ✅ | ✅ |
-| <span id="202">#202</span> | Setup end-to-end tests                          | game-client,automation,technical | - | - | ✅ | ✅ | ⚠️ |
-| <span id="203">#203</span> | Credits page                                    | game-client,legal,technical | - | - | ✅ | ✅ | ✅ |
-| <span id="204">#204</span> | Settings page                                   | game-client,accessibility,technical | - | - | ✅ | ✅ | ❌ |
-| <span id="205">#205</span> | Settings page - Keyboard remapping              | game-client,accessibility,technical | [#204](#user-content-204) | - | - | - | ❌ |
-| <span id="206">#206</span> | Settings page - Change language                 | game-client,accessibility,technical | [#204](#user-content-204), [#201](#user-content-201) | - | - | - | ❌ |
-| <span id="206">#207</span> | Tutorial                                        | game-client,accessibility,technical | - | - | ✅ | ⚠️ | ❌ |
+| <span id="201">#201</span> | Setup a translation system                      | game-client, localization, technical | - | - | ✅ | ✅ | ✅ |
+| <span id="202">#202</span> | Setup end-to-end tests                          | game-client, automation, technical | - | - | ✅ | ✅ | ⚠️ |
+| <span id="203">#203</span> | Credits page                                    | game-client, legal, technical | - | - | ✅ | ✅ | ✅ |
+| <span id="204">#204</span> | Settings page                                   | game-client, accessibility, technical | - | - | ✅ | ✅ | ❌ |
+| <span id="205">#205</span> | Settings page - Keyboard remapping              | game-client, accessibility, technical | [#204](#user-content-204) | - | - | - | ❌ |
+| <span id="206">#206</span> | Settings page - Change language                 | game-client, accessibility, technical | [#204](#user-content-204), [#201](#user-content-201) | - | - | - | ❌ |
+| <span id="206">#207</span> | Tutorial                                        | game-client, accessibility, technical | - | - | ✅ | ⚠️ | ❌ |
 
 # Steam integration
 
@@ -88,10 +88,10 @@ But this can be forked and used for your games as well!
 
 | Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
 | -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
-| <span id="501">#501</span> | Ensure you can navigate UI with gamepad         | steam-deck,accessibility,technical | - | - | ❌ | ✅ | ❌ |
-| <span id="502">#502</span> | Ensure virtual keyboard show automatically when needed | steam-deck,accessibility,technical | - | - | ❌ | - | ❌ |
-| <span id="503">#503</span> | Ensure resolution/font-size is okay on Steam deck | steam-deck,accessibility,technical | - | - | ✅ | ✅ | ✅ |
-| <span id="504">#504</span> | Ensure steam input configuration is correct | steam-deck,accessibility,technical | - | - | ❌ | ✅ | ❌ |
-| <span id="505">#505</span> | Ensure performances on steam deck are correct | steam-deck,accessibility,technical | - | - | ✅ | ✅ | ✅ |
-| <span id="506">#506</span> | Ensure display settings are local and not clouded | steam-deck,accessibility,technical | - | - | ❌ | ✅ | ✅ |
-| <span id="507">#507</span> | Ensure steam cloud work | steam-deck,accessibility,technical | - | [#303](#user-content-303) | ✅ | ✅ | ❌ |
+| <span id="501">#501</span> | Ensure you can navigate UI with gamepad         | steam-deck, accessibility, technical | - | - | ❌ | ✅ | ❌ |
+| <span id="502">#502</span> | Ensure virtual keyboard show automatically when needed | steam-deck, accessibility, technical | - | - | ❌ | - | ❌ |
+| <span id="503">#503</span> | Ensure resolution/font-size is okay on Steam deck | steam-deck, accessibility, technical | - | - | ✅ | ✅ | ✅ |
+| <span id="504">#504</span> | Ensure steam input configuration is correct     | steam-deck, accessibility, technical | - | - | ❌ | ✅ | ❌ |
+| <span id="505">#505</span> | Ensure performances on steam deck are correct   | steam-deck, accessibility, technical | - | - | ✅ | ✅ | ✅ |
+| <span id="506">#506</span> | Ensure display settings are local and not clouded | steam-deck, accessibility, technical | - | - | ❌ | ✅ | ✅ |
+| <span id="507">#507</span> | Ensure steam cloud work | steam-deck, accessibility, technical | - | [#303](#user-content-303) | ✅ | ✅ | ❌ |
