@@ -1,7 +1,7 @@
 This repository contains the whole (technical, commercial, communication, and so on) roadmap of my games not to forget things to do.
 
 This roadmap applies to all of my three Steam games:
-- [Extortion](https://store.steampowered.com/app/1299430/Extortion/)
+- [Extortion](https://store.steampowered.com/app/2299430/Extortion/)
 - [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/)
 - [Manufactur'inc](https://store.steampowered.com/app/2146380/Manufactur_inc/)
 
@@ -26,13 +26,16 @@ But this can be forked and used for your games as well!
 | <span id="7">#7</span>     | CI: build macos x64 version                     | game-client, automation, technical | - | [#1](#user-content-1) | ✅ | ✅ | ✅ |
 | <span id="8">#8</span>     | CI: build macos arm64 version                   | game-client, automation, technical | - | [#1](#user-content-1) | ❌ | ❌ | ❌ |
 | <span id="9">#9</span>     | CI: publish to steam (dev)                      | game-client, automation, technical, steam | - | [#1](#user-content-1), [#5](#user-content-5) | ✅ | ✅ | ✅ |
-| <span id="11">#11</span>   | Create game server repostiory                   | game-server, technical | - | - | - | - | ✅ |
-| <span id="12">#12</span>   | CI: tests on game server                        | game-server, automation, technical | - | [#11](#user-content-11) | - | - | ✅ |
-| <span id="13">#13</span>   | CI: run sonarqube on game client code           | game-client, automation, technical | - | [#11](#user-content-11) | - | - | ✅ |
-| <span id="14">#14</span>   | CI: sonarqube quality gate on game server code  | game-client, automation, technical | - | [#11](#user-content-11), [#13](#user-content-13) | - | - | ✅ |
-| <span id="21">#21</span>   | Create game i18n public repostiory              | localization | - | - | ✅ | ✅ | ✅ |
-| <span id="22">#22</span>   | Setup Contributor License Agreements            | localization, legal | - | [#21](#user-content-21) | ✅ | ✅ | ❌ |
-| <span id="23">#23</span>   | Add i18n repo as a game repo submodule          | game-client, localization | - |  [#1](#user-content-1), [#21](#user-content-21) | ✅ | ❌ | ✅ |
+| <span id="10">#10</span>   | CI: publish to steam (demo)                     | game-client, automation, technical, steam | - | [#1](#user-content-1), [#5](#user-content-5) | ✅ | ✅ | ❌ |
+| <span id="11">#11</span>   | CI: publish to itch.io (prod)                   | game-client, automation, technical, itch | - | [#1](#user-content-1), [#5](#user-content-5) | ❌ | ❌ | ❌ |
+| <span id="12">#12</span>   | CI: publish to itch.io (demo)                   | game-client, automation, technical, itch | - | [#1](#user-content-1), [#5](#user-content-5) | ✅ | ✅ | ❌ |
+| <span id="21">#21</span>   | Create game server repostiory                   | game-server, technical | - | - | - | - | ✅ |
+| <span id="22">#22</span>   | CI: tests on game server                        | game-server, automation, technical | - | [#21](#user-content-21) | - | - | ✅ |
+| <span id="23">#23</span>   | CI: run sonarqube on game client code           | game-client, automation, technical | - | [#21](#user-content-21) | - | - | ✅ |
+| <span id="24">#24</span>   | CI: sonarqube quality gate on game server code  | game-client, automation, technical | - | [#21](#user-content-21), [#23](#user-content-23) | - | - | ✅ |
+| <span id="31">#31</span>   | Create game i18n public repostiory              | localization | - | - | ✅ | ✅ | ✅ |
+| <span id="32">#32</span>   | Setup Contributor License Agreements            | localization, legal | - | [#31](#user-content-31) | ✅ | ✅ | ❌ |
+| <span id="33">#33</span>   | Add i18n repo as a game repo submodule          | game-client, localization | - |  [#1](#user-content-1), [#31](#user-content-31) | ✅ | ❌ | ✅ |
 
 [Back to the top](#table-of-content)
 
