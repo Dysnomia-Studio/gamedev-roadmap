@@ -95,3 +95,33 @@ But this can be forked and used for your games as well!
 | <span id="505">#505</span> | Ensure performances on steam deck are correct   | steam-deck, accessibility, technical | - | - | ✅ | ✅ | ✅ |
 | <span id="506">#506</span> | Ensure display settings are local and not clouded | steam-deck, accessibility, technical | - | - | ❌ | ✅ | ✅ |
 | <span id="507">#507</span> | Ensure steam cloud work | steam-deck, accessibility, technical | - | [#303](#user-content-303) | ✅ | ✅ | ❌ |
+
+---
+
+# To do
+
+Things to detail here later:
+- Twitch extension
+- Discord app and/or bot
+- Discord rich presence
+- Wiki/Guides
+- Next Fest and other festivals
+- Analyze other games for:
+	- ideas (e.g. reviews)
+	- languages
+	- tags
+- Visibility of steam page:
+	- mutliple languages
+	- follow/wishlist button GIF
+	- tags
+- Trailer (and where/when showing it)
+- Demo
+- Playtests
+- Audio (effects and music)
+- Touchscreen support
+- Social networks links
+- Images lossless compression
+- Steam community forum setup
+- Devblog
+- Reporting (grafana & co)
+- Accessibiltiy checkup
