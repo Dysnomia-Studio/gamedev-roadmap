@@ -62,5 +62,6 @@ But this can be forked and used for your own games as well!
 | <span id="302">#302</span> | Claim game page on Twitch                       | community, visibility | [Dysnomia's Blog](https://blog.dysnomia.studio/posts/add-your-game-to-twitch/) | [#301](#user-content-301) | ✅ | ✅ | ✅ |
 | <span id="303">#303</span> | Create youtube category                         | community, visibility | - | ? | ✅ | ✅ | ✅ |
 | <span id="304">#304</span> | Create IndieDB page                             | community, visibility | - | - | ❌ | ❌ | ❌ |
+| <span id="305">#305</span> | Dump tokens to SteamDB to ensure full data there | community, visibility | [SteamDB Official page about token dumper](https://steamdb.info/tokendumper/) | - | ✅ | ✅ | ✅ |
 
 [Back to the top](#table-of-content)
