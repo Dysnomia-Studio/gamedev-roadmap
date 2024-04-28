@@ -1,11 +1,11 @@
-This repository contains the whole (technical, commercial, communication, ...) roadmap of my games in order to not forget things to do.
+This repository contains the whole (technical, commercial, communication, and so on) roadmap of my games not to forget things to do.
 
 This roadmap applies to all of my three Steam games:
 - [Extortion](https://store.steampowered.com/app/1299430/Extortion/)
 - [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/)
 - [Manufactur'inc](https://store.steampowered.com/app/2146380/Manufactur_inc/)
 
-But this can be forked and used for your own games as well!
+But this can be forked and used for your games as well!
 
 # Table of content
 1. [Repositories setup](#repositories-setup)
