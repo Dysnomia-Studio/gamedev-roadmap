@@ -51,6 +51,7 @@ But this can be forked and used for your own games as well!
 | <span id="205">#205</span> | Setup steam authentication                      | game-client, technical, steam | - | [#201](#user-content-201) | - | - | ✅ |
 | <span id="206">#206</span> | Ensure steam overlay works                      | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ❌ |
 | <span id="207">#207</span> | Get language from Steam                         | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ❌ |
+| <span id="208">#208</span> | Setup steam enhanced rich presence              | game-client, technical, steam | [Steam official documentation](https://partner.steamgames.com/doc/features/enhancedrichpresence) | [#201](#user-content-201) | ❌ | ✅ | ❌ |
 
 [Back to the top](#table-of-content)
 
