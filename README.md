@@ -10,8 +10,9 @@ But this can be forked and used for your games as well!
 # Table of content
 1. [Repositories setup](#repositories-setup)
 2. [Steam page](#steam-page)
-3. [Steam integration](#steam-integration)
-4. [Public databases](#public-databases)
+3. [Platform-agnostic technical features](#platform-agnostic-technical-features)
+4. [Steam integration](#steam-integration)
+5. [Public databases](#public-databases)
 
 # Repositories setup
 
@@ -42,6 +43,18 @@ But this can be forked and used for your games as well!
 # Steam page
 
 [Back to the top](#table-of-content)
+
+# Platform-agnostic technical features
+
+| Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
+| -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
+| <span id="201">#201</span> | Setup a translation system                      | game-client,localization,technical | - | - | ✅ | ✅ | ✅ |
+| <span id="202">#202</span> | Setup end-to-end tests                          | game-client,automation,technical | - | - | ✅ | ✅ | ⚠️ |
+| <span id="203">#203</span> | Credits page                                    | game-client,legal,technical | - | - | ✅ | ✅ | ✅ |
+| <span id="204">#204</span> | Settings page                                   | game-client,accessibility,technical | - | - | ✅ | ✅ | ❌ |
+| <span id="205">#205</span> | Settings page - Keyboard remapping              | game-client,accessibility,technical | [#204](#user-content-204) | - | - | - | ❌ |
+| <span id="206">#206</span> | Settings page - Change language                 | game-client,accessibility,technical | [#204](#user-content-204), [#201](#user-content-201) | - | - | - | ❌ |
+| <span id="206">#207</span> | Tutorial                                        | game-client,accessibility,technical | - | - | ✅ | ⚠️ | ❌ |
 
 # Steam integration
 
