@@ -13,6 +13,7 @@ But this can be forked and used for your games as well!
 3. [Platform-agnostic technical features](#platform-agnostic-technical-features)
 4. [Steam integration](#steam-integration)
 5. [Public databases](#public-databases)
+6. [Steam Deck compatibility](#steam-deck-compatibility)
 
 # Repositories setup
 
@@ -82,3 +83,15 @@ But this can be forked and used for your games as well!
 | <span id="405">#405</span> | Dump tokens to SteamDB to ensure full data there | community, visibility | [SteamDB Official page about token dumper](https://steamdb.info/tokendumper/) | - | ✅ | ✅ | ✅ |
 
 [Back to the top](#table-of-content)
+
+# Steam Deck compatibility
+
+| Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
+| -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
+| <span id="501">#501</span> | Ensure you can navigate UI with gamepad         | steam-deck,accessibility,technical | - | - | ❌ | ✅ | ❌ |
+| <span id="502">#502</span> | Ensure virtual keyboard show automatically when needed | steam-deck,accessibility,technical | - | - | ❌ | - | ❌ |
+| <span id="503">#503</span> | Ensure resolution/font-size is okay on Steam deck | steam-deck,accessibility,technical | - | - | ✅ | ✅ | ✅ |
+| <span id="504">#504</span> | Ensure steam input configuration is correct | steam-deck,accessibility,technical | - | - | ❌ | ✅ | ❌ |
+| <span id="505">#505</span> | Ensure performances on steam deck are correct | steam-deck,accessibility,technical | - | - | ✅ | ✅ | ✅ |
+| <span id="506">#506</span> | Ensure display settings are local and not clouded | steam-deck,accessibility,technical | - | - | ❌ | ✅ | ✅ |
+| <span id="507">#507</span> | Ensure steam cloud work | steam-deck,accessibility,technical | - | [#303](#user-content-303) | ✅ | ✅ | ❌ |
