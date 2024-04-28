@@ -11,6 +11,7 @@ But this can be forked and used for your own games as well!
 1. [Repositories setup](#repositories-setup)
 2. [Steam page](#steam-page)
 3. [Steam integration](#steam-integration)
+4. [Public databases](#public-databases)
 
 # Repositories setup
 
@@ -50,5 +51,16 @@ But this can be forked and used for your own games as well!
 | <span id="205">#205</span> | Setup steam authentication                      | game-client, technical, steam | - | [#201](#user-content-201) | - | - | ✅ |
 | <span id="206">#206</span> | Ensure steam overlay works                      | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ❌ |
 | <span id="207">#207</span> | Get language from Steam                         | game-client, technical, steam | - | [#201](#user-content-201) | ✅ | ✅ | ❌ |
+
+[Back to the top](#table-of-content)
+
+# Public databases
+
+| Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
+| -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
+| <span id="301">#301</span> | Create game page on IGDB                        | community, visibility | [Dysnomia's Blog](https://blog.dysnomia.studio/posts/add-your-game-to-twitch/) | - | ✅ | ✅ | ✅ |
+| <span id="302">#302</span> | Claim game page on Twitch                       | community, visibility | [Dysnomia's Blog](https://blog.dysnomia.studio/posts/add-your-game-to-twitch/) | [#301](#user-content-301) | ✅ | ✅ | ✅ |
+| <span id="303">#303</span> | Create youtube category                         | community, visibility | - | ? | ✅ | ✅ | ✅ |
+| <span id="304">#304</span> | Create IndieDB page                             | community, visibility | - | - | ❌ | ❌ | ❌ |
 
 [Back to the top](#table-of-content)
