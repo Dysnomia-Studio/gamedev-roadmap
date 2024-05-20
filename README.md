@@ -115,7 +115,7 @@ Things to detail here later:
 	- follow/wishlist button GIF
 	- tags
 - Trailer (and where/when showing it)
-- Demo
+- Demo (+ Big banner) 
 - Playtests
 - Audio (effects and music)
 - Touchscreen support
@@ -125,3 +125,5 @@ Things to detail here later:
 - Devblog
 - Reporting (grafana & co)
 - Accessibiltiy checkup
+- Daily deals
+- Community-organized events
