@@ -127,3 +127,10 @@ Things to detail here later:
 - Accessibiltiy checkup
 - Daily deals
 - Community-organized events
+- Steam release: not round date (e.g. 14:58) so before the other ones in "popular upcoming" - Link: https://gdcvault.com/play/1034567/Independent-Games-Summit-The-Steam
+- Press kit
+- Steam page translation
+- Release announcements (1 week before, 3 days before, 1 day before, day, 3 days, 1 week after a few hours before the end of the sale)
+- Form to get feedback on demo/playtest (on graphics, gameplay, ux, fun, ..., not too long)
+- Bundle with other games (from the dev or other devs)
+- Streamers/news outlets spreadsheet (list contacts, and attempts (max 3))
