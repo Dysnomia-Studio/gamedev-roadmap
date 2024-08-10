@@ -32,8 +32,8 @@ But this can be forked and used for your games as well!
 | <span id="104">#104</span> | CI: sonarqube quality gate on game client code  | game-client, automation, technical | - | [#101](#user-content-101), [#103](#user-content-103) | ✅ | ✅ | ✅ |
 | <span id="105">#105</span> | CI: build windows x64 version                   | game-client, automation, technical | - | [#101](#user-content-101) | ✅ | ✅ | ✅ |
 | <span id="106">#106</span> | CI: build linux x64 version                     | game-client, automation, technical | - | [#101](#user-content-101) | ✅ | ✅ | ✅ |
-| <span id="107">#107</span> | CI: build macos x64 version                     | game-client, automation, technical | - | [#101](#user-content-101) | ✅ | ✅ | ✅ |
-| <span id="108">#108</span> | CI: build macos arm64 version                   | game-client, automation, technical | - | [#101](#user-content-101) | ❌ | ❌ | ❌ |
+| <span id="107">#107</span> | CI: build macos x64 version (Deprecated)        | game-client, automation, technical | - | [#101](#user-content-101) | ✅ | ✅ | - |
+| <span id="108">#108</span> | CI: build macos arm64 version                   | game-client, automation, technical | - | [#101](#user-content-101) | ❌ | ❌ | ✅ |
 | <span id="109">#109</span> | CI: publish to steam (dev)                      | game-client, automation, technical, steam | - | [#101](#user-content-101), [#105](#user-content-105) | ✅ | ✅ | ✅ |
 | <span id="110">#110</span> | CI: publish to steam (demo)                     | game-client, automation, technical, steam | - | [#101](#user-content-101), [#105](#user-content-105) | ✅ | ✅ | ❌ |
 | <span id="111">#111</span> | CI: publish to itch.io (prod)                   | game-client, automation, technical, itch | - | [#101](#user-content-101), [#105](#user-content-105) | ❌ | ❌ | ❌ |
