@@ -57,7 +57,7 @@ But this can be forked and used for your games as well!
 | Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc |
 | -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- |
 | <span id="301">#301</span> | Setup a translation system                      | game-client, localization, technical | - | - | ✅ | ✅ | ✅ |
-| <span id="302">#302</span> | Setup end-to-end tests                          | game-client, automation, technical | - | - | ✅ | ✅ | ⚠️ |
+| <span id="302">#302</span> | Setup end-to-end tests                          | game-client, automation, technical | - | - | ✅ | ✅ | ✅ |
 | <span id="303">#303</span> | Credits page                                    | game-client, legal, technical | - | - | ✅ | ✅ | ✅ |
 | <span id="304">#304</span> | Settings page                                   | game-client, accessibility, technical | - | - | ✅ | ✅ | ❌ |
 | <span id="305">#305</span> | Settings page - Keyboard remapping              | game-client, accessibility, technical | [#304](#user-content-304) | - | - | - | ❌ |
