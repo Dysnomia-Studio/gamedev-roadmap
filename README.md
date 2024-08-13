@@ -156,6 +156,9 @@ Things to detail here later:
 - Touchscreen support
 - Images lossless compression
 - Steam community forum setup
+	- Social network posts
+	- Translation post
+ 	- Subscribe to all the forums  
 - Devblog
 - Reporting (grafana & co)
 - Accessibiltiy checkup
