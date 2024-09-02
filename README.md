@@ -77,6 +77,7 @@ But this can be forked and used for your games as well!
 | <span id="223">#223</span> | Setup demo the same way as app | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
 | <span id="224">#224</span> | Setup steam demo depots, packages and launch options | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
 | <span id="225">#225</span> | Fill pricing | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ❌ |
+| <span id="226">#226</span> | Fill "More from (Franchise/Developer/Publisher)" | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
 
 
 [Back to the top](#table-of-content)
