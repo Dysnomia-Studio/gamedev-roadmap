@@ -56,26 +56,27 @@ But this can be forked and used for your games as well!
 | <span id="202">#202</span> | Pay Steam Fee to get our own Steam app | administrative | - | [#201](#user-content-201) | ✅ | ✅ | ✅ |
 | <span id="203">#203</span> | [Basic Info] Fill game name, app type | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
 | <span id="204">#204</span> | [Basic Info] Fill developer and publisher name | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="205">#205</span> | Create developer homepage | administrative, seo | [Steam Official Documentation](https://partner.steamgames.com/doc/store/creator_homepage) | [#204](#user-content-204) | ✅ | ✅ | ✅ |
-| <span id="206">#206</span> | [Basic Info] Fill external links (website, forum, stats, online manual, Metacritic) and social media links (Discord, Youtube, Facebook, Twitter, Twitch) | administrative, social-medias | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="207">#207</span> | [Basic Info] Fill search keywords (add a lot of them!) | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="208">#208</span> | [Basic Info] Fill supported platforms and requirements | administrative, technical | - | [#202](#user-content-202), [#105](#user-content-105), [#106](#user-content-106), [#108](#user-content-108)  | ✅ | ✅ | ✅ |
-| <span id="209">#209</span> | [Basic Info] Fill supported languages | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="210">#210</span> | [Basic Info] Fill "players" (single/multi/coop), and supported features (achievements, cloud, stats, ...) | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="211">#211</span> | [Basic Info] Fill genre and tags | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="212">#212</span> | [Basic Info] Fill controller support | administrative, game-client, seo | - | [#202](#user-content-202) | ❌ | ❌ | ✅ |
-| <span id="213">#213</span> | [Basic Info] Fill 3rd party DRM/Accounts, legal lines | administrative, legal | - | [#202](#user-content-202) | - | - | - |
-| <span id="214">#214</span> | [Basic Info] Fill support contact info | administrative, legal | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="215">#215</span> | [Description] Fill short description, long description, reviews, awards | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="216">#216</span> | [Rewards] Fill rating if you have some | administrative, legal | - | [#202](#user-content-202) | - | - | - |
-| <span id="217">#217</span> | [Early Access] Fill early access informations if relevant | administrative, seo | - | [#202](#user-content-202) | - | - | ✅ |
-| <span id="218">#218</span> | [Graphical Assets] Add all assets, including optional ones | administrative, seo | - | [#202](#user-content-202), Logos | ⚠️ | ⚠️ | ⚠️ |
-| <span id="219">#219</span> | [Trailer] Add trailer | administrative, seo | - | [#202](#user-content-202), Trailer | ✅ | ✅ | ❌ |
-| <span id="220">#220</span> | Translate steam page to other languages | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ⚠️ |
-| <span id="221">#221</span> | Setup steam depots, packages and launch options | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="222">#222</span> | Setup demo the same way as app | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="223">#223</span> | Setup steam demo depots, packages and launch options | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
-| <span id="224">#224</span> | Fill pricing | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ❌ |
+| <span id="204">#205</span> | [Basic Info] Fill franchise name | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="206">#206</span> | Create developer/publisher/franchise homepage | administrative, seo | [Steam Official Documentation](https://partner.steamgames.com/doc/store/creator_homepage) | [#204](#user-content-204) | ✅ | ✅ | ✅ |
+| <span id="207">#207</span> | [Basic Info] Fill external links (website, forum, stats, online manual, Metacritic) and social media links (Discord, Youtube, Facebook, Twitter, Twitch) | administrative, social-medias | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="208">#208</span> | [Basic Info] Fill search keywords (add a lot of them!) | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="209">#209</span> | [Basic Info] Fill supported platforms and requirements | administrative, technical | - | [#202](#user-content-202), [#105](#user-content-105), [#106](#user-content-106), [#108](#user-content-108)  | ✅ | ✅ | ✅ |
+| <span id="210">#210</span> | [Basic Info] Fill supported languages | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="211">#211</span> | [Basic Info] Fill "players" (single/multi/coop), and supported features (achievements, cloud, stats, ...) | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="212">#212</span> | [Basic Info] Fill genre and tags | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="213">#213</span> | [Basic Info] Fill controller support | administrative, game-client, seo | - | [#202](#user-content-202) | ❌ | ❌ | ✅ |
+| <span id="214">#214</span> | [Basic Info] Fill 3rd party DRM/Accounts, legal lines | administrative, legal | - | [#202](#user-content-202) | - | - | - |
+| <span id="215">#215</span> | [Basic Info] Fill support contact info | administrative, legal | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="216">#216</span> | [Description] Fill short description, long description, reviews, awards | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="217">#217</span> | [Rewards] Fill rating if you have some | administrative, legal | - | [#202](#user-content-202) | - | - | - |
+| <span id="218">#218</span> | [Early Access] Fill early access informations if relevant | administrative, seo | - | [#202](#user-content-202) | - | - | ✅ |
+| <span id="219">#219</span> | [Graphical Assets] Add all assets, including optional ones | administrative, seo | - | [#202](#user-content-202), Logos | ⚠️ | ⚠️ | ⚠️ |
+| <span id="220">#220</span> | [Trailer] Add trailer | administrative, seo | - | [#202](#user-content-202), Trailer | ✅ | ✅ | ❌ |
+| <span id="221">#221</span> | Translate steam page to other languages | administrative, seo | - | [#202](#user-content-202) | ✅ | ✅ | ⚠️ |
+| <span id="222">#222</span> | Setup steam depots, packages and launch options | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="223">#223</span> | Setup demo the same way as app | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="224">#224</span> | Setup steam demo depots, packages and launch options | technical, game-client | - | [#202](#user-content-202) | ✅ | ✅ | ✅ |
+| <span id="225">#225</span> | Fill pricing | administrative | - | [#202](#user-content-202) | ✅ | ✅ | ❌ |
 
 
 [Back to the top](#table-of-content)
