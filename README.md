@@ -174,3 +174,9 @@ Things to detail here later:
 - Bundle with other games (from the dev or other devs)
 - Streamers/news outlets spreadsheet (list contacts, and attempts (max 3))
 - Create Discord server
+- Make an influencer list
+- Make a press list
+- Analyse other games for: tags, price, language, things to have/not have
+- Feedback form
+- Social medias in game
+  Wishlist button in Demo
