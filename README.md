@@ -26,7 +26,7 @@ But this can be forked and used for your games as well!
 
 | Id                         | Task                                            | Tags | Links | Needs | Extortion | Alchemistry | Manufactur'inc | Logistik |
 | -------------------------- | ----------------------------------------------- | ---- | ----- | ---- | ---- | ---- | ---- | ---- |
-| <span id="101">#101</span> | Create game client repository                   | game-client, technical | - | - | ✅ | ✅ | ✅ || ✅ |
+| <span id="101">#101</span> | Create game client repository                   | game-client, technical | - | - | ✅ | ✅ | ✅ | ✅ |
 | <span id="102">#102</span> | CI: tests on game client                        | game-client, automation, technical | - | [#101](#user-content-101) | ✅ | ✅ | ✅ | ✅ |
 | <span id="103">#103</span> | CI: run sonarqube on game client code           | game-client, automation, technical | - | [#101](#user-content-101) | ✅ | ✅ | ✅ | ✅ |
 | <span id="104">#104</span> | CI: sonarqube quality gate on game client code  | game-client, automation, technical | - | [#101](#user-content-101), [#103](#user-content-103) | ✅ | ✅ | ✅ | ✅ |
